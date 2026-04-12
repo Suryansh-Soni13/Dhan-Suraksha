@@ -73,6 +73,5 @@
 
 @media (max-width: 768px) {
   .navbar { top: 34px; }
-  .section-padding.first-section { padding-top: 180px !important; }
+  .section-padding.first-section { padding-top: 140px; }
 }
-.section-padding.first-section { padding-top: 200px !important; }

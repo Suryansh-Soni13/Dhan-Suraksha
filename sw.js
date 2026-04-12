@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dhan-suraksha-v4';
+const CACHE_NAME = 'dhan-suraksha-v3';
 const ASSETS = [
     '/',
     '/index.html',
